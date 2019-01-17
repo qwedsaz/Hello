@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * Author: Zheng Nian Yop
+ * Date: 2019/01/17
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Zheng Nian Yop\n");
+  printf("Actuarial Science\n");
 
   return 0;
 }
